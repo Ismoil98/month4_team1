@@ -1,1 +1,12 @@
 @use '../abstracts' as *;
+
+
+.main{
+    .main-hero{
+        .container{
+            .hero__title{
+                background-color: red;
+            }
+        }
+    }
+}
